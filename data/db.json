@@ -2,9 +2,9 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage banner",
+      "title": "Create new homepage ",
       "details": "Lorem ipsum Lorem ipsum Lorem ipsum",
-      "complete": false
+      "complete": true
     },
     {
       "id": 2,
@@ -13,16 +13,16 @@
       "complete": true
     },
     {
-      "title": "sfanb",
-      "details": "sdgas",
+      "title": "Start a project",
+      "details": "The description is gonna go here",
       "complete": false,
-      "id": 3
+      "id": 5
     },
     {
-      "title": "Burn down the banana stand",
-      "details": "That ought to teach him",
-      "complete": true,
-      "id": 4
+      "title": "Continue the project",
+      "details": "Yep, go on and finish it",
+      "complete": false,
+      "id": 6
     }
   ]
 }
