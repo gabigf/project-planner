@@ -1,5 +1,5 @@
 # Project planner
-A to-do list created using vueJS and json-server. The user can create a new task, edit an existing task and delete a task. They can also view filtered lists based on task completion.
+A to-do list created using vueJS and json-server. The user can create, edit and delete a task. They can also view filtered lists based on task completion.
 
 ## Tech Stack
 - VueJS
